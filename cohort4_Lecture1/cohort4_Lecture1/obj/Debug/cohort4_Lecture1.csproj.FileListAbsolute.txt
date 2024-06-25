@@ -1,0 +1,7 @@
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\bin\Debug\cohort4_Lecture1.exe.config
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\bin\Debug\cohort4_Lecture1.exe
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\bin\Debug\cohort4_Lecture1.pdb
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\obj\Debug\cohort4_Lecture1.csproj.AssemblyReference.cache
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\obj\Debug\cohort4_Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\obj\Debug\cohort4_Lecture1.exe
+C:\Users\GT.BATOOL.ALDALKI\source\repos\cohort4_Lecture1\cohort4_Lecture1\obj\Debug\cohort4_Lecture1.pdb
